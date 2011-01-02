@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = [ 'Jonah Burke' ]
   s.email       = [ 'jonah@jonahb.com' ]
-  s.homepage    = ''
+  s.homepage    = 'http://github.com/jonahb/cookie_requirement'
   s.summary     = 'Ensure cookies are enabled in a Rails app.'
   s.description = s.summary
 
