@@ -16,6 +16,6 @@ Gem::Specification.new do |s|
   s.files        = Dir.glob( 'lib/**/*' )
   s.require_path = 'lib'
 
-  s.add_dependency 'actionpack', '~> 2.3.0'
-  s.add_dependency 'activesupport', '~> 2.3.0'
+  s.add_dependency 'actionpack', '>= 2.3.0'
+  s.add_dependency 'activesupport', '>= 2.3.0'
 end
